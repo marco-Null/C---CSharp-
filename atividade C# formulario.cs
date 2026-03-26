@@ -114,7 +114,92 @@ namespace WindowsFormsApp1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
+             if (string.IsNullOrEmpty(textBox1.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox2.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox3.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox4.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox5.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox6.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox7.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox8.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox9.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox10.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox11.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox12.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+    else if (string.IsNullOrEmpty(textBox13.Text))
+    {
+        MessageBox.Show("Nenhum nome está no cadastro!", "Aviso",
+        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+    }
+
+    else
+    {
+        string mensagem = "Dados do Cadastro:\n\n" +
+                  "Codigo: " + textBox1.Text + "\n" +
+                  "Nome: " + textBox2.Text + "\n" +
+                  "RG: " + textBox3.Text + "\n" +
+                  "CPF: " + textBox4 + "\n" +
+                  "Telefone Residencia: " + textBox5 + "\n" +
+                  "CEP: " + textBox6.Text + "\n" +
+                  "Logradouro: " + textBox8.Text + "\n" +
+                  "Numero: " + textBox7.Text + "\n" +
+                  "Bairro: " + textBox9.Text + "\n" +
+                  "Cidade: " + textBox10.Text + "\n" +
+                  "E-mail: " + textBox11.Text + "\n" +
+                  "Facebook: " + textBox13.Text + "\n" +
+                  "Twitter: " + textBox12.Text;
+
+
+        MessageBox.Show(mensagem, "Consulta",
+        MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
