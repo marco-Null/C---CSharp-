@@ -1,0 +1,13 @@
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\bin\Debug\atividade TPA.exe.config
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\bin\Debug\atividade TPA.exe
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\bin\Debug\atividade TPA.pdb
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade TPA.csproj.AssemblyReference.cache
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade_TPA.Form1.resources
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade_TPA.Properties.Resources.resources
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade TPA.csproj.GenerateResource.cache
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade TPA.csproj.CoreCompileInputs.cache
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade TPA.exe
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade TPA.pdb
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade_TPA.Form2.resources
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade_TPA.Form3.resources
+C:\Users\ocram\OneDrive\Área de Trabalho\atividade TPA\atividade TPA\obj\Debug\atividade_TPA.Form4.resources
