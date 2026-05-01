@@ -1,0 +1,11 @@
+C:\Users\etec\source\repos\sla\sla\bin\Debug\sla.exe.config
+C:\Users\etec\source\repos\sla\sla\bin\Debug\sla.exe
+C:\Users\etec\source\repos\sla\sla\bin\Debug\sla.pdb
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.FrnPrincipal.resources
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.Properties.Resources.resources
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.csproj.GenerateResource.cache
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.exe
+C:\Users\etec\source\repos\sla\sla\obj\Debug\sla.pdb
