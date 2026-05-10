@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,11 +18,6 @@ namespace atividade_TPA
         }
 
 
-
-        private void navMinecraft_Click(object sender, EventArgs e)
-        {
-
-        }
 
         bool usandoJAVA = true;
 
@@ -67,8 +62,9 @@ namespace atividade_TPA
                 usandoSteve = true;
             }
         }
-
+        
         bool usandoBED = true;
+
         private void radioButtonBedrock_CheckedChanged(object sender, EventArgs e)
         {
             if (usandoBED)
@@ -91,16 +87,31 @@ namespace atividade_TPA
 
         private void StartButton_Click(object sender, EventArgs e)
         {
+
             progressoJogo.Value = 0;
             tempo.Start();
+
         }
 
         private void tempo_Tick(object sender, EventArgs e)
         {
+
             if (progressoJogo.Value < 100)
             {
                 progressoJogo.Value += 1;
+
+
+                if (progressoJogo.Value == 65)
+                {
+                    tempo.Interval = 200;
+                }
+
+                if (progressoJogo.Value == 85)
+                {
+                    tempo.Interval = 50;
+                }
             }
+
             else
             {
                 tempo.Stop();
@@ -129,12 +140,21 @@ namespace atividade_TPA
             entrar.form1 = this;
             entrar.Show();
 
+        }
 
+        public void AtualizarBotoesQuandoEntrarOrCriar()
+        {
+            bool logado = ImagemUsuario.Visible;
+
+            CarregarSkinButton.Enabled = logado;
+            trocarSkinButtom.Enabled = logado;
+            radioButtonJava.Enabled = logado;
+            radioButtonBedrock.Enabled = logado;
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void nomeDoUsuarioTexto_Click(object sender, EventArgs e)
@@ -158,9 +178,61 @@ namespace atividade_TPA
 
         private void SobreButtom_Click(object sender, EventArgs e)
         {
-            Form7 Sobre = new Form7();
-            Sobre.form1 = this;
-            Sobre.Show();
+            
+        }
+
+        private void comboBoxJavaVersion_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            if (comboBoxJavaVersion.SelectedIndex != 1 || comboBoxBedrockVersion.SelectedIndex != 1)
+            {
+                StartButton.Enabled = true;
+            }
+
+            else
+            {
+                StartButton.Enabled = false;
+
+            }
+        }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void comboBoxUsuarioName_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (nomeDoUsuarioTexto.Visible == true)
+            {
+
+                comboBoxUsuarioName.Items.Add(nomeDoUsuarioTexto);
+
+            }
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+            AtualizarBotoesQuandoEntrarOrCriar();
+
+
+            navMinecraftRich.Text = "LAUNCH&RCRAFT";
+
+            navMinecraftRich.Select(6, 7);
+            navMinecraftRich.SelectionColor = Color.Green;
+
+            navMinecraftRich.Select(7, navMinecraftRich.Text.Length - 7);
+            navMinecraftRich.SelectionColor = Color.White;
+
+            navMinecraftRich.SelectionLength = 0;
+
+        }
+
+        private void navMinecraftRich_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
