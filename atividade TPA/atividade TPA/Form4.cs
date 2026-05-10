@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,7 +21,6 @@ namespace atividade_TPA
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
 
             form1.EntrarNav.Visible = false;
             form1.CriarContaNav.Visible = false;
@@ -29,6 +28,9 @@ namespace atividade_TPA
             form1.nomeDoUsuarioTexto.Visible = true;
             form1.ImagemUsuario.Visible = true;
 
+            form1.AtualizarBotoesQuandoEntrarOrCriar();
+
+            this.Close();
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -83,6 +85,11 @@ namespace atividade_TPA
                 form1.nomeDoUsuarioTexto.Location = new Point(875, 31);
             }
 
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }
