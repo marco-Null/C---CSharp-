@@ -1,0 +1,87 @@
+C:\Users\lukas\source\repos\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\lukas\source\repos\marioProject\bin\Debug\marioProject.exe
+C:\Users\lukas\source\repos\marioProject\bin\Debug\marioProject.pdb
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.exe
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.pdb
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.exe.config
+C:\Users\lukas\source\repos\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\ocram\Downloads\marioProject\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\ocram\Downloads\marioProject\marioProject\bin\Debug\marioProject.exe
+C:\Users\ocram\Downloads\marioProject\marioProject\bin\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.exe
+C:\Users\ocram\Downloads\marioProject\marioProject\obj\Debug\marioProject.pdb
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\bin\Debug\marioProject.exe
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\bin\Debug\marioProject.pdb
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.exe.config
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.exe
+C:\Users\lukas\Downloads\C---CSharp--main (2)\C---CSharp--main\marioProject\marioProject\obj\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\bin\Debug\marioProject.exe
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\bin\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.exe
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProject\obj\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\bin\Debug\marioProject.exe
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\bin\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.exe
+C:\Users\ocram\Downloads\projetoMarioEnviar\marioProject\marioProjectQUINTA\marioProject\obj\Debug\marioProject.pdb
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\bin\Debug\marioProject.exe
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\bin\Debug\marioProject.pdb
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.exe.config
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.exe
+C:\Users\lukas\Downloads\marioProjectQUINTA\marioProject\obj\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\bin\Debug\marioProject.exe
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\bin\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.exe
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\ocram\Downloads\marioProject90Completo\marioProject\obj\Debug\marioProject.csproj.ResolveComReference.cache
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\bin\Debug\marioProject.exe.config
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\bin\Debug\marioProject.exe
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\bin\Debug\marioProject.pdb
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.csproj.AssemblyReference.cache
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.csproj.ResolveComReference.cache
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.primeiroMundo.resources
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.Properties.Resources.resources
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.csproj.GenerateResource.cache
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.csproj.CoreCompileInputs.cache
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.exe
+C:\Users\ocram\Downloads\marioProjectCompleto\marioProject\obj\Debug\marioProject.pdb
