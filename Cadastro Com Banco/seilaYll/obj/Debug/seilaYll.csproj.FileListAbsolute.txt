@@ -1,0 +1,40 @@
+C:\Users\etec\Desktop\seilaYll\seilaYll\bin\Debug\Cadastro.mdf
+C:\Users\etec\Desktop\seilaYll\seilaYll\bin\Debug\Cadastro_log.ldf
+C:\Users\etec\Desktop\seilaYll\seilaYll\bin\Debug\seilaYll.exe.config
+C:\Users\etec\Desktop\seilaYll\seilaYll\bin\Debug\seilaYll.exe
+C:\Users\etec\Desktop\seilaYll\seilaYll\bin\Debug\seilaYll.pdb
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.AssemblyReference.cache
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.Form1.resources
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.Properties.Resources.resources
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.GenerateResource.cache
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.exe
+C:\Users\etec\Desktop\seilaYll\seilaYll\obj\Debug\seilaYll.pdb
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\bin\Debug\Cadastro.mdf
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\bin\Debug\Cadastro_log.ldf
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\bin\Debug\seilaYll.exe.config
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\bin\Debug\seilaYll.exe
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\bin\Debug\seilaYll.pdb
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.AssemblyReference.cache
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.Form1.resources
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.Properties.Resources.resources
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.GenerateResource.cache
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.csproj.CoreCompileInputs.cache
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.exe
+C:\Users\ocram\Downloads\formulario CSharp\C---CSharp--main\seilaYll\seilaYll\obj\Debug\seilaYll.pdb
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.csproj.AssemblyReference.cache
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.exe
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.pdb
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\bin\Debug\Cadastro.mdf
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\bin\Debug\Cadastro_log.ldf
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\bin\Debug\seilaYll.exe.config
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\bin\Debug\seilaYll.exe
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\bin\Debug\seilaYll.pdb
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.Form1.resources
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\sla.FrnPrincipal.resources
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.Properties.Resources.resources
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.csproj.GenerateResource.cache
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\C---CSharp--main\C---CSharp--main\Cadastro Com Banco\seilaYll\obj\Debug\seilaYll.FrnPesquisa.resources
