@@ -1,0 +1,15 @@
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\bin\Debug\net6.0\AulaPOO1_Base.exe
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\bin\Debug\net6.0\AulaPOO1_Base.deps.json
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\bin\Debug\net6.0\AulaPOO1_Base.runtimeconfig.json
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\bin\Debug\net6.0\AulaPOO1_Base.dll
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\bin\Debug\net6.0\AulaPOO1_Base.pdb
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.csproj.AssemblyReference.cache
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.AssemblyInfoInputs.cache
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.AssemblyInfo.cs
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.dll
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\refint\AulaPOO1_Base.dll
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.pdb
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\AulaPOO1_Base.genruntimeconfig.cache
+C:\Users\etec\Downloads\AulaPOO1_Base\AulaPOO1_Base\obj\Debug\net6.0\ref\AulaPOO1_Base.dll
