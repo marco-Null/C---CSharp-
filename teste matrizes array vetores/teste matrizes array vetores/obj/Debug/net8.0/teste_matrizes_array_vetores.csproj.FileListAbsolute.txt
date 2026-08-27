@@ -1,0 +1,14 @@
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\bin\Debug\net8.0\teste_matrizes_array_vetores.exe
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\bin\Debug\net8.0\teste_matrizes_array_vetores.deps.json
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\bin\Debug\net8.0\teste_matrizes_array_vetores.runtimeconfig.json
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\bin\Debug\net8.0\teste_matrizes_array_vetores.dll
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\bin\Debug\net8.0\teste_matrizes_array_vetores.pdb
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.AssemblyInfoInputs.cache
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.AssemblyInfo.cs
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.csproj.CoreCompileInputs.cache
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.dll
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\refint\teste_matrizes_array_vetores.dll
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.pdb
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\teste_matrizes_array_vetores.genruntimeconfig.cache
+C:\Users\ocram\OneDrive\Área de Trabalho\teste matrizes array vetores\teste matrizes array vetores\obj\Debug\net8.0\ref\teste_matrizes_array_vetores.dll
