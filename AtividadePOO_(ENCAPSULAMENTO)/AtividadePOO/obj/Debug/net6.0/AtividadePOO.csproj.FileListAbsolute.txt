@@ -1,0 +1,15 @@
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\bin\Debug\net6.0\AtividadePOO.exe
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\bin\Debug\net6.0\AtividadePOO.deps.json
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\bin\Debug\net6.0\AtividadePOO.runtimeconfig.json
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\bin\Debug\net6.0\AtividadePOO.dll
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\bin\Debug\net6.0\AtividadePOO.pdb
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.csproj.AssemblyReference.cache
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.AssemblyInfoInputs.cache
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.AssemblyInfo.cs
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.dll
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\refint\AtividadePOO.dll
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.pdb
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\AtividadePOO.genruntimeconfig.cache
+C:\Users\etec\Downloads\AtividadePOO\AtividadePOO\obj\Debug\net6.0\ref\AtividadePOO.dll
