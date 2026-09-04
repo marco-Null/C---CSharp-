@@ -11,6 +11,12 @@ namespace AtividadePOO
         public string nome { get; set; }
         public int nrConta { get; set; }
         private double saldo { get; set; }
+        
+        public Conta(){
+            nome = "Desconhecido";
+            nrConta = 0;
+            saldo = 0;
+        }
 
         public void setSaldo(double saldo)
         {
