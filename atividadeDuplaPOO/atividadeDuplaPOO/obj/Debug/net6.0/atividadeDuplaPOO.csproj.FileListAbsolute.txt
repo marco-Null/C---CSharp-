@@ -1,0 +1,15 @@
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\bin\Debug\net6.0\atividadeDuplaPOO.exe
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\bin\Debug\net6.0\atividadeDuplaPOO.deps.json
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\bin\Debug\net6.0\atividadeDuplaPOO.runtimeconfig.json
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\bin\Debug\net6.0\atividadeDuplaPOO.dll
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\bin\Debug\net6.0\atividadeDuplaPOO.pdb
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.csproj.AssemblyReference.cache
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.AssemblyInfoInputs.cache
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.AssemblyInfo.cs
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.dll
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\refint\atividadeDuplaPOO.dll
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.pdb
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\atividadeDuplaPOO.genruntimeconfig.cache
+C:\Users\etec\Downloads\atividadeDuplaPOO\atividadeDuplaPOO\obj\Debug\net6.0\ref\atividadeDuplaPOO.dll
