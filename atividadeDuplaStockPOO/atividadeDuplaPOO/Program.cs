@@ -1,4 +1,4 @@
-﻿using atividadeDuplaPOO;
+using atividadeDuplaPOO;
 // criar um sistema de controle de stock, que ultilize emcapsulamento e construtor
 
 Stock[] produto = new Stock[67];
@@ -14,13 +14,15 @@ int quantidadeCadastre;
 Stock LocalizacaoProduto = null;
 
 while (ativador == true) {
+    Console.Clear();
 
     Console.WriteLine("-----Sistema de STOCK-----");
     Console.WriteLine("");
     Console.WriteLine("1 - Cadastrar");
     Console.WriteLine("2 - Comprar");
     Console.WriteLine("3 - Carteira");
-    Console.WriteLine("4 - Sair");
+    Console.WriteLine("4 - Items comprados");
+    Console.WriteLine("5 - Sair");
     Console.WriteLine("\n");
 
     Console.Write("Digite: ");
@@ -229,6 +231,32 @@ while (ativador == true) {
     }
 
     else if (a == "4")
+    {
+        Console.Clear();
+
+        if (LocalizacaoProduto == null)
+        {
+            Console.Clear();
+            Console.WriteLine("Nenhum produto comprado!");
+            Console.ReadKey();
+            continue;
+        }
+
+        else
+        {
+
+            Console.WriteLine("-----Item comprado------");
+            Console.WriteLine(LocalizacaoProduto.getID() + "° item: " + LocalizacaoProduto.getNome());
+            Console.WriteLine("---------------------------------- \n");
+
+            Console.WriteLine("Pressione ENTER para voltar");
+            Console.ReadKey();
+            Console.Clear();
+            continue;
+        }
+    }
+
+    else if (a == "5")
     {
         ativador = false;
 
