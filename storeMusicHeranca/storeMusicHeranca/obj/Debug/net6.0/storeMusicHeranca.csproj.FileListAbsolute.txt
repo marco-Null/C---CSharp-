@@ -1,0 +1,15 @@
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\bin\Debug\net6.0\storeMusicHeranca.exe
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\bin\Debug\net6.0\storeMusicHeranca.deps.json
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\bin\Debug\net6.0\storeMusicHeranca.runtimeconfig.json
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\bin\Debug\net6.0\storeMusicHeranca.dll
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\bin\Debug\net6.0\storeMusicHeranca.pdb
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.csproj.AssemblyReference.cache
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.AssemblyInfoInputs.cache
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.AssemblyInfo.cs
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.csproj.CoreCompileInputs.cache
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.dll
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\refint\storeMusicHeranca.dll
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.pdb
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\storeMusicHeranca.genruntimeconfig.cache
+C:\Users\etec\Downloads\storeMusicHeranca\storeMusicHeranca\obj\Debug\net6.0\ref\storeMusicHeranca.dll
