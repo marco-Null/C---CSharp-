@@ -634,7 +634,7 @@ do
 
             Console.WriteLine("1 - Coca-Cola: " + cocaCola.valor);
             Console.WriteLine("2 - Fanta Uva: " + fantaUva.valor);
-            Console.WriteLine("3 - Fanta Laranja: " + fantaLaranja);
+            Console.WriteLine("3 - Fanta Laranja: " + fantaLaranja.valor);
             Console.WriteLine("4 - Guaraná Antartida: " + guarana.valor);
             Console.WriteLine("5 - Tubaina: " + tubaina.valor);
             Console.WriteLine("6 - It laranja: " + itLaran.valor);
