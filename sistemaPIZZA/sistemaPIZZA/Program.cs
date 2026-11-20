@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using sistemaPIZZA;
 
 int opcoes = 0;
 int opcaoSORVETE = 0;
 double dinheiroAtual = 250.67;
 int idInicial = 1;
-int numero;
+int numero, num, opcaoPizza, opcaoBebida;
 
 List<string> pedido = new List<string>();
 double totalGeral = 0;
@@ -46,7 +46,12 @@ do
     Console.WriteLine("9 - Carteira\n\n");
 
     Console.Write("Digite sua opção: ");
-    opcoes = int.Parse(Console.ReadLine());
+    while (!int.TryParse(Console.ReadLine(), out opcoes))
+    {
+        Console.WriteLine("\n Digite apenas Numeros!\n");
+
+        Console.Write("Digite sua opção: ");
+    }
 
 
     switch (opcoes)
@@ -73,7 +78,11 @@ do
             Console.WriteLine("0 - Sair\n");
 
             Console.Write("Escolha: ");
-            int opcaoPizza = int.Parse(Console.ReadLine());
+            while (!int.TryParse(Console.ReadLine(), out opcaoPizza))
+            {
+                Console.WriteLine("\nDigite apenas Numeros!\n");
+                Console.Write("Escolha: ");
+            }
 
             switch (opcaoPizza)
             {
@@ -645,7 +654,11 @@ do
             Console.WriteLine("0 - Sair");
 
             Console.Write("Escolha: ");
-            int opcaoBebida = int.Parse(Console.ReadLine());
+            while(!int.TryParse(Console.ReadLine(), out opcaoBebida))
+            {
+                Console.WriteLine("\nDigite apenas Numeros!\n");
+                Console.Write("Escolha: ");
+            }
 
             switch (opcaoBebida)
             {
