@@ -893,6 +893,11 @@ do
                 Console.Write("Digite o ID do seu pedido para retirar: ");
             }
 
+            if (idRemover == idsPedidos.Count)
+            {
+                Console.WriteLine("");
+            }
+
             
 
             Console.ReadKey();
