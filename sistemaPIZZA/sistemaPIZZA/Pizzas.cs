@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -93,7 +93,7 @@ namespace sistemaPIZZA
 
         public override void Preparacao()
         {
-            Console.WriteLine("Preparando a pizza de" + nome + ", adicionando: ");
+            Console.WriteLine("Preparando a pizza de " + nome + ", adicionando: ");
             Console.WriteLine("- " + ingre.Molho);
             Console.WriteLine("- " + ingre.Mussarela);
             Console.WriteLine("- " + ingre.Tomate);
