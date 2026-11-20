@@ -119,6 +119,8 @@ do
                         totalGeral += qtTOTALpepe;
                         pizzaPerone.Preparacao();
 
+                        Console.WriteLine("Digite qualquer tecla...");
+
                         Console.ReadKey();
                         break;
                     }
@@ -170,6 +172,8 @@ do
                         pedido.Add(qtPizzaMargue + " x " + pizzaMargue.valor + " - R$: " + qtTOTALmargue + " - " + pizzaMargue.nome);
                         totalGeral += qtTOTALmargue;
                         pizzaMargue.Preparacao();
+
+                        Console.WriteLine("Digite qualquer tecla...");
 
                         Console.ReadKey();
                         break;
@@ -223,6 +227,8 @@ do
                         totalGeral += qtTOTALmussa;
                         pizzaMussa.Preparacao();
 
+                        Console.WriteLine("Digite qualquer tecla...");
+
                         Console.ReadKey();
                         break;
                     }
@@ -274,6 +280,8 @@ do
                         pedido.Add(qtPizzaBacon + " x " + pizzaBacon.valor + " - R$: " + qtTOTALBacon + " - " + pizzaBacon.nome);
                         totalGeral += qtTOTALBacon;
                         pizzaBacon.Preparacao();
+
+                        Console.WriteLine("Digite qualquer tecla...");
 
                         Console.ReadKey();
                         break;
@@ -328,6 +336,8 @@ do
                         totalGeral += qtTOTALPortu;
                         pizzaPortu.Preparacao();
 
+                        Console.WriteLine("Digite qualquer tecla...");
+
                         Console.ReadKey();
                         break;
                     }
@@ -380,6 +390,8 @@ do
                         totalGeral += qtTOTALFrango;
                         pizzaFrango.Preparacao();
 
+                        Console.WriteLine("Digite qualquer tecla...");
+
                         Console.ReadKey();
                         break;
                     }
@@ -431,6 +443,8 @@ do
                         pedido.Add(qtPizzaChocorango + " x " + pizzaChocoRango.valor + " - R$: " + qtTOTALchocorango + " - " + pizzaChocoRango.nome);
                         totalGeral += qtTOTALchocorango;
                         pizzaChocoRango.Preparacao();
+
+                        Console.WriteLine("Digite qualquer tecla...");
 
                         Console.ReadKey();
                         break;
@@ -500,6 +514,8 @@ do
                                 totalGeral += qtTOTALsorvChoco;
                                 pizzaSorvChoco.Preparacao();
 
+                                Console.WriteLine("Digite qualquer tecla...");
+
                                 Console.ReadKey();
                                 break;
                             }
@@ -551,6 +567,8 @@ do
                                 pedido.Add(qtPizzaSorvMoran + " x " + pizzaSorvMoran.valor + " - R$: " + qtTOTALsorvMoran + " - " + pizzaSorvMoran.nome);
                                 totalGeral += qtTOTALsorvMoran;
                                 pizzaSorvMoran.Preparacao();
+
+                                Console.WriteLine("Digite qualquer tecla...");
 
                                 Console.ReadKey();
                                 break;
@@ -604,6 +622,8 @@ do
                                 pedido.Add(qtPizzaSorvFlocos + " x " + pizzaSorvFlocos.valor + " - R$: " + qtTOTALsorvFlocos + " - " +     pizzaSorvFlocos.nome);
                                 totalGeral += qtTOTALsorvFlocos;
                                 pizzaSorvFlocos.Preparacao();
+                                
+                                Console.WriteLine("Digite qualquer tecla...");
 
                                 Console.ReadKey();
                                 break;
