@@ -8,6 +8,9 @@ int idInicial = 1;
 int numero, num, opcaoPizza, opcaoBebida;
 
 List<string> pedido = new List<string>();
+List<int> idsPedidos = new List<int>();
+List<double> vlPedidos = new List<double>();
+
 double totalGeral = 0;
 
 //----- classes importadas -----
@@ -41,6 +44,7 @@ do
     Console.WriteLine("1 - pedir pizza");
     Console.WriteLine("2 - pedir bebida");
     Console.WriteLine("3 - ver carrinho");
+    Console.WriteLine("4 - remover pedido");
     Console.WriteLine("0 - Sair \n");
 
     Console.WriteLine("9 - Carteira\n\n");
@@ -115,9 +119,11 @@ do
                     if(confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzasPepe + " x " + pizzaPerone.valor + " - R$: " + qtTOTALpepe + " - " + pizzaPerone.nome);
+                        pedido.Add("ID: " + pizzaPerone.id + " - " + qtPizzasPepe + " x " + pizzaPerone.valor + " - R$: " + qtTOTALpepe + " - " + pizzaPerone.nome);
                         totalGeral += qtTOTALpepe;
                         pizzaPerone.Preparacao();
+
+                        idsPedidos.Add(pizzaPerone.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -169,9 +175,11 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzaMargue + " x " + pizzaMargue.valor + " - R$: " + qtTOTALmargue + " - " + pizzaMargue.nome);
+                        pedido.Add("ID: " + pizzaMargue.id + " - " + qtPizzaMargue + " x " + pizzaMargue.valor + " - R$: " + qtTOTALmargue + " - " + pizzaMargue.nome);
                         totalGeral += qtTOTALmargue;
                         pizzaMargue.Preparacao();
+
+                        idsPedidos.Add(pizzaMargue.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -223,9 +231,11 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzaMussa + " x " + pizzaMussa.valor + " - R$: " + qtTOTALmussa + " - " + pizzaMussa.nome);
+                        pedido.Add("ID: " + pizzaMussa.id + " - " + qtPizzaMussa + " x " + pizzaMussa.valor + " - R$: " + qtTOTALmussa + " - " + pizzaMussa.nome);
                         totalGeral += qtTOTALmussa;
                         pizzaMussa.Preparacao();
+
+                        idsPedidos.Add(pizzaMussa.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -277,9 +287,11 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzaBacon + " x " + pizzaBacon.valor + " - R$: " + qtTOTALBacon + " - " + pizzaBacon.nome);
+                        pedido.Add("ID: " + pizzaBacon.id + " - " + qtPizzaBacon + " x " + pizzaBacon.valor + " - R$: " + qtTOTALBacon + " - " + pizzaBacon.nome);
                         totalGeral += qtTOTALBacon;
                         pizzaBacon.Preparacao();
+
+                        idsPedidos.Add(pizzaBacon.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -332,9 +344,11 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzaPortu + " x " + pizzaPortu.valor + " - R$: " + qtTOTALPortu + " - " + pizzaPortu.nome);
+                        pedido.Add("ID: " + pizzaPortu.id + " - " + qtPizzaPortu + " x " + pizzaPortu.valor + " - R$: " + qtTOTALPortu + " - " + pizzaPortu.nome);
                         totalGeral += qtTOTALPortu;
                         pizzaPortu.Preparacao();
+
+                        idsPedidos.Add(pizzaPortu.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -386,9 +400,11 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzaFrango + " x " + pizzaFrango.valor + " - R$: " + qtTOTALFrango + " - " + pizzaFrango.nome);
+                        pedido.Add("ID: " + pizzaFrango.id + " - " + qtPizzaFrango + " x " + pizzaFrango.valor + " - R$: " + qtTOTALFrango + " - " + pizzaFrango.nome);
                         totalGeral += qtTOTALFrango;
                         pizzaFrango.Preparacao();
+
+                        idsPedidos.Add(pizzaFrango.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -440,9 +456,11 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtPizzaChocorango + " x " + pizzaChocoRango.valor + " - R$: " + qtTOTALchocorango + " - " + pizzaChocoRango.nome);
+                        pedido.Add("ID: " + pizzaChocoRango.id + " - " + qtPizzaChocorango + " x " + pizzaChocoRango.valor + " - R$: " + qtTOTALchocorango + " - " + pizzaChocoRango.nome);
                         totalGeral += qtTOTALchocorango;
                         pizzaChocoRango.Preparacao();
+
+                        idsPedidos.Add(pizzaChocoRango.id);
 
                         Console.WriteLine("Digite qualquer tecla...");
 
@@ -510,9 +528,11 @@ do
                             if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                             {
                                 Console.Clear();
-                                pedido.Add(qtPizzaSorvChoco + " x " + pizzaSorvChoco.valor + " - R$: " + qtTOTALsorvChoco + " - " + pizzaSorvChoco.nome);
+                                pedido.Add("ID: " + pizzaSorvChoco.id + " - " + qtPizzaSorvChoco + " x " + pizzaSorvChoco.valor + " - R$: " + qtTOTALsorvChoco + " - " + pizzaSorvChoco.nome);
                                 totalGeral += qtTOTALsorvChoco;
                                 pizzaSorvChoco.Preparacao();
+
+                                idsPedidos.Add(pizzaSorvChoco.id);
 
                                 Console.WriteLine("Digite qualquer tecla...");
 
@@ -564,9 +584,11 @@ do
                             if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                             {
                                 Console.Clear();
-                                pedido.Add(qtPizzaSorvMoran + " x " + pizzaSorvMoran.valor + " - R$: " + qtTOTALsorvMoran + " - " + pizzaSorvMoran.nome);
+                                pedido.Add("ID: " + pizzaSorvMoran.id + " - " + qtPizzaSorvMoran + " x " + pizzaSorvMoran.valor + " - R$: " + qtTOTALsorvMoran + " - " + pizzaSorvMoran.nome);
                                 totalGeral += qtTOTALsorvMoran;
                                 pizzaSorvMoran.Preparacao();
+
+                                idsPedidos.Add(pizzaSorvMoran.id);
 
                                 Console.WriteLine("Digite qualquer tecla...");
 
@@ -619,10 +641,12 @@ do
                             if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                             {
                                 Console.Clear();
-                                pedido.Add(qtPizzaSorvFlocos + " x " + pizzaSorvFlocos.valor + " - R$: " + qtTOTALsorvFlocos + " - " +     pizzaSorvFlocos.nome);
+                                pedido.Add("ID: " + pizzaSorvFlocos.id + " - " + qtPizzaSorvFlocos + " x " + pizzaSorvFlocos.valor + " - R$: " + qtTOTALsorvFlocos + " - " +     pizzaSorvFlocos.nome);
                                 totalGeral += qtTOTALsorvFlocos;
                                 pizzaSorvFlocos.Preparacao();
-                                
+
+                                idsPedidos.Add(pizzaSorvFlocos.id);
+
                                 Console.WriteLine("Digite qualquer tecla...");
 
                                 Console.ReadKey();
@@ -712,8 +736,10 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtCoca + " x " + coca.valor + " - R$: " + qtTOTALCoca + " - " + coca.nome);
+                        pedido.Add("ID: " + coca.id + " - " + qtCoca + " x " + coca.valor + " - R$: " + qtTOTALCoca + " - " + coca.nome);
                         totalGeral += qtTOTALCoca;
+
+                        idsPedidos.Add(coca.id);
 
                         Console.ReadKey();
                         break;
@@ -764,8 +790,10 @@ do
                     if (confirm.ToLower() == "sim" || confirm.ToLower() == "s")
                     {
                         Console.Clear();
-                        pedido.Add(qtfnt_uva + " x " + fnt_uva.valor + " - R$: " + qtTOTALfnt_uva + " - " + fnt_uva.nome);
+                        pedido.Add("ID: " + fnt_uva.id + " - " + qtfnt_uva + " x " + fnt_uva.valor + " - R$: " + qtTOTALfnt_uva + " - " + fnt_uva.nome);
                         totalGeral += qtTOTALfnt_uva;
+
+                        idsPedidos.Add(fnt_uva.id);
 
                         Console.ReadKey();
                         break;
@@ -804,7 +832,8 @@ do
             Console.WriteLine("\nTotal a pagar R$: " + totalGeral);
             Console.WriteLine("Dinheiro atual R$: " + dinheiroAtual + "\n");
 
-            Console.WriteLine("Confirmar pagamento?: ");
+
+            Console.Write("Confirmar pagamento?: ");
             string confirmPagamento = Console.ReadLine();
 
             if(confirmPagamento.ToLower() == "sim" || confirmPagamento.ToLower() == "s")
@@ -849,6 +878,26 @@ do
             Console.ReadKey();
             break;
 
+        case 4:
+            Console.Clear();
+            foreach (string item in pedido){
+                Console.WriteLine(item);
+            }
+
+            int idRemover;
+
+            Console.Write("Digite o ID do seu pedido para retirar: ");
+            while(!int.TryParse(Console.ReadLine(), out idRemover))
+            {
+                Console.WriteLine("\nDigite apenas o numero do ID: \n");
+                Console.Write("Digite o ID do seu pedido para retirar: ");
+            }
+
+            
+
+            Console.ReadKey();
+
+            break;
         case 9:
             Console.Clear();
             Console.WriteLine("======= Carteira =======\n");
